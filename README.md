@@ -106,10 +106,10 @@ Daftar judul tabel/publikasi, tahun, satuan, URL, dan tanggal akses tersedia sec
 Beberapa sumber utama:
 
 - [Indeks Pembangunan Manusia 2025 — BPS](https://www.bps.go.id/id/publication/2026/04/24/f96755ab0e48765d028c0462/indeks-pembangunan-manusia-2025.html)
-- [Umur Harapan Hidup Saat Lahir — BPS](https://www.bps.go.id/id/statistics-table/2/MjI3MCMy/umur-harapan-hidup-saat-lahir-menurut-jenis-kelamin-menggunakan-uhh-hasil-sp2020-lf-.html)
-- [Expected Years of Schooling (EYS) by Gender — BPS](https://www.bps.go.id/id/statistics-table/2/NDU3IzI%3D/expected-years-of-schooling--eys--by-gender.html)
-- [Mean Years of Schooling (MYS) — BPS](https://www.bps.go.id/id/statistics-table/2/NDE1IzI=/-metode-baru--rata-rata-lama-sekolah--tahun-.html)
-- [Adjusted Per Capita Expenditure — BPS](https://www.bps.go.id/id/statistics-table/2/NDYxIzI%3D/adjusted-per-capita-expenditure-by-gender--thousand-rupiah-person-year-.html)
+- [Umur Harapan Hidup Saat Lahir — BPS](https://www.bps.go.id/id/statistics-table/2/MjIwNiMy/-metode-baru--umur-harapan-hidup-saat-lahir--uhh--hasil-long-form-sp2020.html)
+- [Expected Years of Schooling (EYS) by Gender — BPS](https://www.bps.go.id/id/statistics-table/2/NDE3IzI=/-metode-baru--harapan-lama-sekolah--tahun-.html)
+- [Mean Years of Schooling (MYS) — BPS](https://www.bps.go.id/id/statistics-table/2/NDE1IzI=/-metode-baru--rata-rata-lama-sekolah.html)
+- [Adjusted Per Capita Expenditure — BPS](https://www.bps.go.id/id/statistics-table/2/NDE2IzI=/-metode-baru--pengeluaran-per-kapita-disesuaikan.html)
 - [Persentase Penduduk Miskin (P0) menurut Kabupaten/Kota — BPS](https://www.bps.go.id/id/statistics-table/2/NjIxIzI%3D/persentase-penduduk-miskin-p0-menurut-kabupaten-kota.html)
 - [Tingkat Pengangguran Terbuka menurut Jenis Kelamin dan Kabupaten/Kota — BPS](https://www.bps.go.id/id/statistics-table/2/MjgyNCMy/tingkat-pengangguran-terbuka-menurut-jenis-kelamin-dan-kabupaten-kota-.html)
 - [Tingkat Partisipasi Angkatan Kerja Menurut Jenis Kelamin — BPS](https://www.bps.go.id/id/statistics-table/2/MjIwMCMy/tingkat-partisipasi-angkatan-kerja-menurut-jenis-kelamin.html)
